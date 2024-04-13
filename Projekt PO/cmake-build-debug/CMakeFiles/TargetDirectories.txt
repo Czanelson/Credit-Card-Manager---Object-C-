@@ -1,0 +1,3 @@
+C:/Users/jaros/Desktop/Projekt 2 sem PO/cmake-build-debug/CMakeFiles/ConsoleCardManager.dir
+C:/Users/jaros/Desktop/Projekt 2 sem PO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaros/Desktop/Projekt 2 sem PO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
